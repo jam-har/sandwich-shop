@@ -13,7 +13,7 @@ public class SandwichShopApp {
         int age = customerInfo.nextInt();
 
         double price = 0;
-        double regularPrice = 5.45;//see line 16 for alternative
+        double regularPrice = 5.45;//see line 21 for alternative
         double largePrice = 8.95;
 
         /* i if statements seem okay, but instead of nested ifs maybe do 2 separate ones to establish 1&2 (sizes) as variables
